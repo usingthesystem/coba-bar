@@ -3,15 +3,40 @@
 {% extends "_common.njk" %}
 
 {% block content %}
-<p>
-  Hello.
-</p>
-<p>
-  This is the demonstration website of the Parcel Github Pages Boilerplate.
-</p>
-<p>
-  <i class="fas fa-arrow-right"></i>
-  <a href="https://github.com/nicolas-van/parcel-github-pages-boilerplate">See the Github project here for documentation.</a>
-  <i class="fas fa-arrow-left"></i>
-</p>
+  <div style="max-width: 500px;" class="container px-0 font-monospace">
+    <h1 class="m-0" style="padding: 20px !important;color: #fff;">Menu</h1>
+    <table class="table table-dark table-striped align-middle">
+      {# <thead class="thead-dark">
+        <tr>
+          <th scope="col">Drinks</th>
+          <th scope="col">Price</th>
+        </tr>
+      </thead> #}
+      <tbody>
+        {% for name, drinks in report.allDrinksByCategory %}
+          <tr>
+            <td class="table-light" colspan="2">
+              <h5 class="h5 m-0">{{ name }}</h5>
+            </td>
+          </tr>
+          {% for drink in drinks %}
+            <tr>
+              <td>
+                <div class="fw-bold">{{ drink.title }}</div>
+                {% if drink.ingredients %}
+                  {% set ingredientsConcatString = drink
+                    .ingredients
+                    .join(', ') %}
+                  <p class="m-0">{{ ingredientsConcatString }}</p>
+                {% endif %}
+              </td>
+              <td class="text-center">
+                <div class="m-0" style="white-space: nowrap;">{{ drink.price }} &euro;</div>
+              </td>
+            </tr>
+          {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 {% endblock %}

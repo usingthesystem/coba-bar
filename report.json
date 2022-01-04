@@ -1,0 +1,750 @@
+{
+  "allDrinksByCategory": {
+    "Cocktail des Hauses": [
+      {
+        "title": "Zayabis",
+        "ingredients": [
+          "Abyme Vodka",
+          "Likör43",
+          "Frangelico",
+          "Birnensaft",
+          "Orangensaft",
+          "Zitronensaft",
+          "Ginger Ale"
+        ],
+        "price": "9.0",
+        "category": "Cocktail des Hauses"
+      },
+      {
+        "title": "My Sweet 43",
+        "ingredients": [
+          "Likör43",
+          "Frangelico",
+          "Amarula",
+          "Milch",
+          "Orangensaft",
+          "Zartbitterschokolade"
+        ],
+        "price": "10.0",
+        "category": "Cocktail des Hauses"
+      },
+      {
+        "title": "Blutiger Sonntag",
+        "ingredients": [
+          "Gentle Gin",
+          "Tomatensaft",
+          "Zitronensaft",
+          "Jalapenos",
+          "Basilikum",
+          "Thymian",
+          "Salz",
+          "Pfeffer",
+          "Worcester Sauce"
+        ],
+        "price": "12.0",
+        "category": "Cocktail des Hauses"
+      },
+      {
+        "title": "Frühlingserwachen",
+        "ingredients": [
+          "Gentle Gin",
+          "Aperol",
+          "Limetten",
+          "Hollundersirup",
+          "Angostura Bitter",
+          "Wostok",
+          "Frischer Orangensaft"
+        ],
+        "price": "9.0",
+        "category": "Cocktail des Hauses"
+      },
+      {
+        "title": "Sommergarten",
+        "ingredients": [
+          "Gentle Gin",
+          "Ingwerlikör",
+          "Thymian",
+          "Basilikum",
+          "Orangensaft",
+          "Zitronensaft",
+          "Hollundersirup"
+        ],
+        "price": "9.0",
+        "category": "Cocktail des Hauses"
+      },
+      {
+        "title": "Sommergarten",
+        "ingredients": [
+          "Gentle Gin",
+          "Ingwerlikör",
+          "Thymian",
+          "Basilikum",
+          "Orangensaft",
+          "Zitronensaft",
+          "Hollundersirup"
+        ],
+        "price": "9.0",
+        "category": "Cocktail des Hauses"
+      },
+      {
+        "title": "Pear Ginger Collins",
+        "ingredients": [
+          "Gentle Gin",
+          "Birnensaft",
+          "Ingwerlikör",
+          "Zitronensaft",
+          "Zucker",
+          "Frischer Ingwer",
+          "Thymian",
+          "Basilikum",
+          "Orangensaft",
+          "Hollundersirup"
+        ],
+        "price": "10.0",
+        "category": "Cocktail des Hauses"
+      },
+      {
+        "title": "cant read Fizz",
+        "ingredients": [],
+        "price": "10.0",
+        "category": "Cocktail des Hauses"
+      }
+    ],
+    "Spirituosen - Whisky": [
+      {
+        "title": "Maker`s Mark",
+        "price": "3.0",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Oban",
+        "price": "5.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Laphroaig 10 J.",
+        "price": "4.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Woodford Reserve",
+        "price": "4.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Knob Greek",
+        "price": "4.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Blanton's",
+        "price": "4.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Glenmorangie",
+        "price": "4.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Jamesr",
+        "price": "3.0",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Daiwhinnis",
+        "price": "5.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Macallan Amber",
+        "price": "6.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Blanion's Special Reserve",
+        "price": "5.5",
+        "category": "Spirituosen - Whisky"
+      },
+      {
+        "title": "Monkev Shoulder",
+        "price": "4.0",
+        "category": "Spirituosen - Whisky"
+      }
+    ],
+    "Spirituosen - Shots": [
+      {
+        "title": "Berliner Luft",
+        "price": "2.0",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Mampe Halb & Halb",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Jose Cuervo Tequila",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "El Jimador reposado",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Jose Cuervo 1800",
+        "price": "3.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Sambuca",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Pastis",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Absinth",
+        "price": "3.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Chartreuse 1764",
+        "price": "3.0",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Chartreuse 1605",
+        "price": "3.0",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Frangelico",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Lillet",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Amarula",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Mexicanar",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Hemmingway",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Amaretto",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Noilly Prat",
+        "price": "3.0",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Drambule",
+        "price": "4.0",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Mezcal sa cosme",
+        "price": "4.0",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Mezcal Bruixo",
+        "price": "7.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Mezcal Enmascarado",
+        "price": "15.0",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Pisco",
+        "price": "2.5",
+        "category": "Spirituosen - Shots"
+      },
+      {
+        "title": "Grappa",
+        "price": "3.5",
+        "category": "Spirituosen - Shots"
+      }
+    ],
+    "Spirituosen - Gin": [
+      {
+        "title": "Gentle Gin",
+        "price": "2.5",
+        "category": "Spirituosen - Gin"
+      },
+      {
+        "title": "Monkey 47",
+        "price": "5.5",
+        "category": "Spirituosen - Gin"
+      },
+      {
+        "title": "Hendrick's",
+        "price": "4.5",
+        "category": "Spirituosen - Gin"
+      },
+      {
+        "title": "Tanqueray",
+        "price": "3.0",
+        "category": "Spirituosen - Gin"
+      },
+      {
+        "title": "The Botanist",
+        "price": "4.5",
+        "category": "Spirituosen - Gin"
+      },
+      {
+        "title": "Bombay Sapphire",
+        "price": "3.5",
+        "category": "Spirituosen - Gin"
+      },
+      {
+        "title": "Sloe Gin",
+        "price": "4.5",
+        "category": "Spirituosen - Gin"
+      }
+    ],
+    "Spirituosen - Vodka": [
+      {
+        "title": "Abyme Vodka",
+        "price": "2.5",
+        "category": "Spirituosen - Vodka"
+      },
+      {
+        "title": "Green Mark Kedr.",
+        "price": "3.0",
+        "category": "Spirituosen - Vodka"
+      }
+    ],
+    "Spirituosen - Rum": [
+      {
+        "title": "Gosling",
+        "price": "3.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Havana 3 J.",
+        "price": "2.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Havana 7 J.",
+        "price": "4.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Sailor Jerry",
+        "price": "3.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Aniversario",
+        "price": "4.0",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Old Monk",
+        "price": "3.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Kraken",
+        "price": "4.0",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "El Dorado 12 J.",
+        "price": "5.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Pyrat Xo",
+        "price": "6.0",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Don Papa",
+        "price": "4.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Botucal",
+        "price": "5.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "El Dorado 15 J.",
+        "price": "7.5",
+        "category": "Spirituosen - Rum"
+      },
+      {
+        "title": "Ron Zacapa",
+        "price": "6.5",
+        "category": "Spirituosen - Rum"
+      }
+    ],
+    "Biere": [
+      {
+        "title": "Büble Edelweiss",
+        "price": "3.8",
+        "category": "Biere"
+      },
+      {
+        "title": "Büble Bayrisch Hell",
+        "price": "3.8",
+        "category": "Biere"
+      },
+      {
+        "title": "Meckatzer Urweizen",
+        "price": "3.8",
+        "category": "Biere"
+      },
+      {
+        "title": "Meckatzer Hefe Alkonsi rei",
+        "price": "3.8",
+        "category": "Biere"
+      },
+      {
+        "title": "Berliner Berg Pale Ale",
+        "price": "3.8",
+        "category": "Biere"
+      },
+      {
+        "title": "Jever",
+        "price": "3.0",
+        "category": "Biere"
+      },
+      {
+        "title": "Alster",
+        "price": "3.8",
+        "category": "Biere"
+      },
+      {
+        "title": "Desperados",
+        "price": "4.0",
+        "category": "Biere"
+      },
+      {
+        "title": "O.B.C. Cidre",
+        "price": "4.0",
+        "category": "Biere"
+      },
+      {
+        "title": "Meckatzer weiss-gold",
+        "price": "3.0",
+        "category": "Biere"
+      }
+    ],
+    "Alkoholfreies in der Flasche": [
+      {
+        "title": "Viva con Aqua leise/laut",
+        "price": "2.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Frutinio",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Wostok",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Proviant Rhabarbe",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Mate",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Fritz Melone",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Fritz Cola mit/ohne Zucker",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Ananas Saft",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      },
+      {
+        "title": "Bluna orange",
+        "price": "3.0",
+        "category": "Alkoholfreies in der Flasche"
+      }
+    ],
+    "Longdrinks & Highballs": [
+      {
+        "title": "Moscow Mule",
+        "price": "7.5",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Abyme Vodka",
+          "Limettensaft",
+          "Spicy Ginger",
+          "Angostura Bitter",
+          "frische Gurke"
+        ]
+      },
+      {
+        "title": "Campari Orange",
+        "price": "6.5",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Campari",
+          "Orangensaft"
+        ]
+      },
+      {
+        "title": "Aperol Spritz",
+        "price": "6.0",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Prosecco",
+          "Aperol"
+        ]
+      },
+      {
+        "title": "Horses Neck",
+        "price": "7.5",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Maker's Mark",
+          "Angostura Bitter",
+          "Ginger Ale",
+          "Zitronenzeste"
+        ]
+      },
+      {
+        "title": "Dark & Stormy",
+        "price": "8.0",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Goslings Rum",
+          "Limette",
+          "Spicy Ginger"
+        ]
+      },
+      {
+        "title": "Licor Latte",
+        "price": "6.5",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Liko 43",
+          "Milch"
+        ]
+      },
+      {
+        "title": "Rum Soft",
+        "price": "6.5",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Rum nach Wahl",
+          "Soft"
+        ]
+      },
+      {
+        "title": "Gin Soft",
+        "price": "6.0",
+        "category": "Longdrinks & Highballs",
+        "ingredients": [
+          "Gin nach Wahl",
+          "Soft"
+        ]
+      }
+    ],
+    "Alkoholfreie Cocktails": [
+      {
+        "title": "Coba Punch",
+        "price": "6.0",
+        "category": "Alkoholfreie Cocktails",
+        "ingredients": [
+          "Cranberrynektar",
+          "frisch gepresster Orangensaft",
+          "Grapefruitsaft",
+          "Mandelsirup"
+        ]
+      },
+      {
+        "title": "Kakadu",
+        "price": "6.0",
+        "category": "Alkoholfreie Cocktails",
+        "ingredients": [
+          "Apfelsaft",
+          "Orangensaft",
+          "Granadine",
+          "Ginger Ale"
+        ]
+      },
+      {
+        "title": "Coba Apfel Cooler",
+        "price": "6.0",
+        "category": "Alkoholfreie Cocktails",
+        "ingredients": [
+          "Apfelsaft",
+          "Zitronensaft",
+          "Holundersirup",
+          "Frischer Apfel",
+          "Bitter Lemon"
+        ]
+      }
+    ],
+    "Warme Getränke": [
+      {
+        "title": "Espresso",
+        "price": "1.8",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Doppelter Espresso",
+        "price": "3.2",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Kaffee",
+        "price": "2.3",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Cappucino",
+        "price": "2.5",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Latte",
+        "price": "3.0",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Milchkaffee",
+        "price": "3.0",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Glas Tee",
+        "price": "2.5",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Ingwer Tee",
+        "price": "3.0",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Frische Minze",
+        "price": "3.0",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Heiße Schokolade",
+        "price": "3.0",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Heiße Schokolade mit Schuß",
+        "price": "4.5",
+        "category": "Warme Getränke"
+      },
+      {
+        "title": "Grog",
+        "price": "4.5",
+        "category": "Warme Getränke"
+      }
+    ]
+  },
+  "ingredients": [
+    "Abyme Vodka",
+    "Amarula",
+    "Angostura Bitter",
+    "Aperol",
+    "Apfelsaft",
+    "Basilikum",
+    "Birnensaft",
+    "Bitter Lemon",
+    "Campari",
+    "Cranberrynektar",
+    "Frangelico",
+    "Frischer Apfel",
+    "Frischer Ingwer",
+    "Frischer Orangensaft",
+    "Gentle Gin",
+    "Gin nach Wahl",
+    "Ginger Ale",
+    "Goslings Rum",
+    "Granadine",
+    "Grapefruitsaft",
+    "Hollundersirup",
+    "Holundersirup",
+    "Ingwerlikör",
+    "Jalapenos",
+    "Liko 43",
+    "Likör43",
+    "Limette",
+    "Limetten",
+    "Limettensaft",
+    "Maker's Mark",
+    "Mandelsirup",
+    "Milch",
+    "Orangensaft",
+    "Pfeffer",
+    "Prosecco",
+    "Rum nach Wahl",
+    "Salz",
+    "Soft",
+    "Spicy Ginger",
+    "Thymian",
+    "Tomatensaft",
+    "Worcester Sauce",
+    "Wostok",
+    "Zartbitterschokolade",
+    "Zitronensaft",
+    "Zitronenzeste",
+    "Zucker",
+    "frisch gepresster Orangensaft",
+    "frische Gurke"
+  ],
+  "categories": [
+    "Alkoholfreie Cocktails",
+    "Alkoholfreies in der Flasche",
+    "Biere",
+    "Cocktail des Hauses",
+    "Longdrinks & Highballs",
+    "Spirituosen - Gin",
+    "Spirituosen - Rum",
+    "Spirituosen - Shots",
+    "Spirituosen - Vodka",
+    "Spirituosen - Whisky",
+    "Warme Getränke"
+  ]
+}

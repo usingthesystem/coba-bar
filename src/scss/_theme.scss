@@ -1,0 +1,7 @@
+body {
+  background-color: #000;
+}
+
+.table > :not(caption) > * > * {
+  padding: 1rem;
+}
