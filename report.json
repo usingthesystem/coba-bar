@@ -98,7 +98,7 @@
     ],
     "Spirituosen - Whisky": [
       {
-        "title": "Maker`s Mark (2cl)",
+        "title": "Maker`s Mark",
         "price": "3.5",
         "category": "Spirituosen - Whisky"
       },
@@ -363,22 +363,22 @@
         "category": "Biere"
       },
       {
-        "title": "Büble Bayrisch Hell vom Fass 0.5l",
+        "title": "Büble Bayrisch Hell | vom Fass 0.5l",
         "price": "4.5",
         "category": "Biere"
       },
       {
-        "title": "Büble Bayrisch Hell vom Fass 0.3l",
+        "title": "Büble Bayrisch Hell | vom Fass 0.3l",
         "price": "3.5",
         "category": "Biere"
       },
       {
-        "title": "Berliner Kindl vom Fass 0.4l",
+        "title": "Berliner Kindl | vom Fass 0.4l",
         "price": "4.0",
         "category": "Biere"
       },
       {
-        "title": "Berliner Kindl vom Fass 0.3l",
+        "title": "Berliner Kindl | vom Fass 0.3l",
         "price": "3.5",
         "category": "Biere"
       },
@@ -393,12 +393,12 @@
         "category": "Biere"
       },
       {
-        "title": "Alster 0.5l",
+        "title": "Alster | 0.5l",
         "price": "4.5",
         "category": "Biere"
       },
       {
-        "title": "Diesel 0.5l",
+        "title": "Diesel | 0.5l",
         "price": "4.5",
         "category": "Biere"
       },
@@ -442,7 +442,7 @@
     ],
     "Säfte": [
       {
-        "title": "Ananas Saft 0.2l",
+        "title": "Ananas Saft | 0.2l",
         "price": "3.5",
         "category": "Säfte"
       },
@@ -452,12 +452,12 @@
         "category": "Säfte"
       },
       {
-        "title": "Apfelsaft Natutrüb 0.3l",
+        "title": "Apfelsaft Natutrüb | 0.3l",
         "price": "3.5",
         "category": "Säfte"
       },
       {
-        "title": "Apfelsaft Schorle 0.3l",
+        "title": "Apfelsaft Schorle | 0.3l",
         "price": "3.0",
         "category": "Säfte"
       },
@@ -467,12 +467,12 @@
         "category": "Säfte"
       },
       {
-        "title": "Birnensaft Schorle 0.3l",
+        "title": "Birnensaft Schorle | 0.3l",
         "price": "3.0",
         "category": "Säfte"
       },
       {
-        "title": "Cranberry Nektar 0.3l",
+        "title": "Cranberry Nektar | 0.3l",
         "price": "3.5",
         "category": "Säfte"
       },
@@ -482,22 +482,22 @@
         "category": "Säfte"
       },
       {
-        "title": "Maracuja Nektar 0.3l",
+        "title": "Maracuja Nektar | 0.3l",
         "price": "3.5",
         "category": "Säfte"
       },
       {
-        "title": "Maracuja Schorle 0.3l",
+        "title": "Maracuja Schorle | 0.3l",
         "price": "3.0",
         "category": "Säfte"
       },
       {
-        "title": "Organgensaft 0.3l",
+        "title": "Organgensaft | 0.3l",
         "price": "3.5",
         "category": "Säfte"
       },
       {
-        "title": "Organgensaft Schorle 0.3l",
+        "title": "Organgensaft Schorle | 0.3l",
         "price": "3.0",
         "category": "Säfte"
       },
@@ -585,6 +585,68 @@
           "Gin nach Wahl",
           "Soft"
         ]
+      }
+    ],
+    "Wein & Sekt": [
+      {
+        "title": "Aperol Spritz | 0.3l",
+        "price": "7.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Weissweinschorle | 0.2l",
+        "price": "4.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Grauer Burgunder | 0.3",
+        "price": "5.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Grauer Burgunder Flasche | 1l",
+        "price": "25.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Merlot | 0.2l",
+        "price": "5.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Merlot Flasche | 0.75l",
+        "price": "25.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "OBC Cider Strong | 0.33l",
+        "price": "4.5",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Prosecco | 0.2l",
+        "price": "4.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Prosecco auf Eis | 0.2l",
+        "price": "6.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Prosecco Flasche | 0.75l",
+        "price": "25.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Hugo | 0.3l",
+        "price": "7.0",
+        "category": "Wein & Sekt"
+      },
+      {
+        "title": "Porto Messias 10 anos | 0.2l",
+        "price": "5.0",
+        "category": "Wein & Sekt"
       }
     ],
     "Alkoholfreie Cocktails": [
@@ -729,6 +791,7 @@
     "Spirituosen - Vodka",
     "Spirituosen - Whisky",
     "Säfte",
-    "Warme Getränke"
+    "Warme Getränke",
+    "Wein & Sekt"
   ]
 }
