@@ -1,0 +1,20 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+    {
+      "type": "npm",
+      "script": "start",
+      "problemMatcher": [],
+      "label": "npm: start",
+      "detail": "rm -rf .cache dist && parcel index.njk --no-cache"
+    },
+    {
+      "type": "npm",
+      "script": "build",
+      "group": "build",
+      "problemMatcher": [],
+      "label": "npm: build",
+      "detail": "rm -rf .cache dist && parcel build index.njk --public-url ./"
+    }
+  ]
+}

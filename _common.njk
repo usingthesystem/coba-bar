@@ -3,6 +3,15 @@
 {% extends "_skeleton.njk" %}
 
 {% block body %}
+  {# <nav id="navbar-example2" class="navbar navbar-dark bg-dark px-3 fixed-top">
+    <ul class="nav">
+      {% for name, drinks in report.allDrinksByCategory %}
+        <li class="nav-item">
+          <a class="nav-link" href="#category-{{ loop.index0 }}">{{ name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav> #}
   <div class="content">
     {% block content %}{% endblock %}
   </div>
