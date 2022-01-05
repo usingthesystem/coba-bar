@@ -4,7 +4,7 @@ import 'core-js/stable'
 import 'regenerator-runtime/runtime'
 
 // import bootstrap's javascript part
-import 'bootstrap'
+// import 'bootstrap'
 
 // import font awesome fonts
 import '@fortawesome/fontawesome-free/css/all.css'
