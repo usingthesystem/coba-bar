@@ -1,17 +1,55 @@
 body {
   background-color: #000;
+  padding-bottom: 10px;
 }
 
 .table > :not(caption) > * > * {
   padding: 1rem;
 }
 
+
+@keyframes background-fade {
+  0% {
+    // fill:#000;
+    // fill:#2c3034;
+  }
+  50% {
+    // fill:#ffffff;
+  }
+  100% {
+    // fill:#000;
+    // fill:#2c3034;
+  }
+}
+
+@keyframes svg-scale {
+  0% {
+    opacity: 0.8;
+    transform: scale(0.65) rotate(-5deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(0.8) rotate(0deg);
+  }
+  100% {
+    opacity: 0.8;
+    transform: scale(0.65) rotate(-5deg);
+  }
+}
+
 .owl-icon-container {
   svg {
-    transform: scale(0.8);
+    transform: scale(0.7);
+    animation: svg-scale 10s infinite;
 
     path {
       fill: #fff;
+      // fill: #2c3034;
+      animation: background-fade 10s infinite;
     }
   }
+}
+
+.footer {
+  margin-bottom: 1rem;
 }

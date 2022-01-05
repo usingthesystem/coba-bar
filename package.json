@@ -25,6 +25,7 @@
     "marked": "^0.8.0",
     "nunjucks": "^3.2.0",
     "parcel-bundler": "^1.12.4",
+    "parcel-plugin-browserconfig": "^1.0.5",
     "parcel-plugin-markdown-it": "^1.0.0",
     "parcel-plugin-nunjucks": "^2.2.0",
     "sass": "^1.25.0"
