@@ -34,8 +34,8 @@
         "Tomatensaft",
         "Zitronensaft",
         "Jalapenos",
-        "Basilikum",
-        "Thymian",
+        "Frischer Basilikum",
+        "Frischer Thymian",
         "Salz",
         "Pfeffer",
         "Worcester Sauce",
@@ -62,9 +62,9 @@
       "title": "Sommergarten",
       "ingredients": [
         "Gentle Gin",
-        "Ingwerlikör",
-        "Thymian",
-        "Basilikum",
+        "Frischer Ingwer",
+        "Frischer Thymian",
+        "Frischer Basilikum",
         "Orangensaft",
         "Zitronensaft",
         "Hollundersirup"
@@ -77,12 +77,12 @@
       "ingredients": [
         "Gentle Gin",
         "Birnensaft",
-        "Ingwerlikör",
+        "Frischer Ingwer",
         "Zitronensaft",
         "Zucker",
         "Frischer Ingwer",
-        "Thymian",
-        "Basilikum",
+        "Frischer Thymian",
+        "Frischer Basilikum",
         "Orangensaft",
         "Hollundersirup"
       ],
@@ -158,7 +158,7 @@
       "category": "Spirituosen - Whisky"
     },
     {
-      "title": "Ardberg 10 Jahre",
+      "title": "Ardbeg 10 Jahre",
       "price": 5,
       "category": "Spirituosen - Whisky"
     },
@@ -973,7 +973,7 @@
         "Limtettensaft",
         "Ahornsirup",
         "Pflaumenmus",
-        "Basilikum"
+        "Frischer Basilikum"
       ]
     },
     {
@@ -996,8 +996,8 @@
         "Vodka",
         "Zitronensaft",
         "Zuckersirup",
-        "Basilikum",
-        "Thymian"
+        "Frischer Basilikum",
+        "Frischer Thymian"
       ]
     }
   ]
