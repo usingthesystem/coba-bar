@@ -12,7 +12,7 @@
         "Ginger Ale"
       ],
       "price": 10,
-      "category": "Cocktail des Hauses"
+      "category": "Cocktails des Hauses"
     },
     {
       "title": "My Sweet 43",
@@ -25,7 +25,7 @@
         "Zartbitterschokolade"
       ],
       "price": 10,
-      "category": "Cocktail des Hauses"
+      "category": "Cocktails des Hauses"
     },
     {
       "title": "Blutiger Sonntag",
@@ -38,10 +38,11 @@
         "Thymian",
         "Salz",
         "Pfeffer",
-        "Worcester Sauce"
+        "Worcester Sauce",
+        "Tabasco"
       ],
       "price": 11,
-      "category": "Cocktail des Hauses"
+      "category": "Cocktails des Hauses"
     },
     {
       "title": "Frühlingserwachen",
@@ -55,7 +56,7 @@
         "Frischer Orangensaft"
       ],
       "price": 10,
-      "category": "Cocktail des Hauses"
+      "category": "Cocktails des Hauses"
     },
     {
       "title": "Sommergarten",
@@ -69,7 +70,7 @@
         "Hollundersirup"
       ],
       "price": 11,
-      "category": "Cocktail des Hauses"
+      "category": "Cocktails des Hauses"
     },
     {
       "title": "Pear Ginger Collins",
@@ -86,13 +87,30 @@
         "Hollundersirup"
       ],
       "price": 10,
-      "category": "Cocktail des Hauses"
+      "category": "Cocktails des Hauses"
     },
     {
-      "title": "Sloe Gin Fizz",
-      "ingredients": [],
+      "title": "Negroni a la Coba (Preis ab 10 Euro)",
       "price": 10,
-      "category": "Cocktail des Hauses"
+      "category": "Gin Cocktails",
+      "ingredients": [
+        "Gin nach Wahl",
+        "Campari",
+        "Vermouth Rosso",
+        "Orangenzeste"
+      ]
+    },
+    {
+      "title": "Coba Whiskey Sour",
+      "price": 13.50,
+      "category": "Cocktails des Hauses",
+      "ingredients": [
+        "Woddford Reserve",
+        "Zitronensaft",
+        "Zuckersirup",
+        "Eiweiss",
+        "Armilar Ruby Port"
+      ]
     },
     {
       "title": "Maker`s Mark",
@@ -137,6 +155,26 @@
     {
       "title": "Monkey Shoulder",
       "price": 5,
+      "category": "Spirituosen - Whisky"
+    },
+    {
+      "title": "Ardberg 10 Jahre",
+      "price": 5,
+      "category": "Spirituosen - Whisky"
+    },
+    {
+      "title": "Bullet Rye",
+      "price": 4,
+      "category": "Spirituosen - Whisky"
+    },
+    {
+      "title": "Talisker",
+      "price": 6,
+      "category": "Spirituosen - Whisky"
+    },
+    {
+      "title": "Port Charlotte Islay",
+      "price": 6,
       "category": "Spirituosen - Whisky"
     },
     {
@@ -402,27 +440,62 @@
     {
       "title": "Viva con Aqua leise/laut",
       "price": 2.5,
-      "category": "Alkoholfreies in der Flasche"
+      "category": "Softdrinks"
     },
     {
       "title": "Wostok",
       "price": 3.5,
-      "category": "Alkoholfreies in der Flasche"
+      "category": "Softdrinks"
     },
     {
       "title": "Mate",
       "price": 3.5,
-      "category": "Alkoholfreies in der Flasche"
+      "category": "Softdrinks"
     },
     {
       "title": "Fritz Cola mit/ohne Zucker",
       "price": 3.5,
-      "category": "Alkoholfreies in der Flasche"
+      "category": "Softdrinks"
     },
     {
       "title": "Fritz Rababer, Organge, Zitrone",
       "price": 3.5,
-      "category": "Alkoholfreies in der Flasche"
+      "category": "Softdrinks"
+    },
+    {
+      "title": "Selters Flasche 0,5 Liter Still/Classic",
+      "price": 3.5,
+      "category": "Softdrinks"
+    },
+    {
+      "title": "Soda Schweppes Flasche 0,2l",
+      "price": 3.5,
+      "category": "Softdrinks"
+    },
+    {
+      "title": "Coca Cola 0,3l",
+      "price": 3.5,
+      "category": "Softdrinks"
+    },
+    {
+      "title": "Bluna Zitrone 0,3l",
+      "price": 3.5,
+      "category": "Softdrinks"
+    },
+    {
+      "title": "TH Gingerale 0,3l",
+      "price": 3.5,
+      "category": "Softdrinks"
+    },
+    {
+      "title": "TH Bitter Lemon Flasche 0,2l",
+      "price": 3.5,
+      "category": "Softdrinks"
+    },
+    {
+      "title": "TH Tonic Water 0,3l",
+      "price": 3.5,
+      "category": "Softdrinks"
     },
     {
       "title": "Ananas Saft | 0.2l",
@@ -520,17 +593,6 @@
       ]
     },
     {
-      "title": "Horses Neck",
-      "price": 8,
-      "category": "Longdrinks & Highballs",
-      "ingredients": [
-        "Maker's Mark",
-        "Angostura Bitter",
-        "Ginger Ale",
-        "Zitronenzeste"
-      ]
-    },
-    {
       "title": "Dark & Stormy",
       "price": 8.5,
       "category": "Longdrinks & Highballs",
@@ -550,7 +612,7 @@
       ]
     },
     {
-      "title": "Rum Soft (Preis ab 7&euro;",
+      "title": "Rum Soft (Preis ab 7 Euro",
       "price": 7,
       "category": "Longdrinks & Highballs",
       "ingredients": [
@@ -559,12 +621,34 @@
       ]
     },
     {
-      "title": "Gin Soft Preis ab",
+      "title": "Gin Soft Preis ab 7 Euro",
       "price": 7,
       "category": "Longdrinks & Highballs",
       "ingredients": [
         "Gin nach Wahl",
         "Soft"
+      ]
+    },
+    {
+      "title": "Amaretto Sour",
+      "price": 10,
+      "category": "Longdrinks & Highballs",
+      "ingredients": [
+        "Amaretto",
+        "Zitronensaft",
+        "Zuckersirup",
+        "Orangenzeste"
+      ]
+    },
+    {
+      "title": "Pisco Sour",
+      "price": 10,
+      "category": "Longdrinks & Highballs",
+      "ingredients": [
+        "Pisco",
+        "Zitronensaft",
+        "Zuckersirup",
+        "Orangenzeste"
       ]
     },
     {
@@ -578,7 +662,7 @@
       "category": "Wein & Sekt"
     },
     {
-      "title": "Grauer Burgunder | 0.3",
+      "title": "Grauer Burgunder | 0.2l",
       "price": 5,
       "category": "Wein & Sekt"
     },
@@ -700,6 +784,221 @@
       "title": "Frische Minze",
       "price": 3.5,
       "category": "Warme Getränke"
+    },
+    {
+      "title": "Mezquiri Fizz",
+      "price": 11,
+      "category": "Tequila Cocktails",
+      "ingredients": [
+        "Mezcal",
+        "Agavensaft",
+        "Limtettensaft",
+        "Eiweiss",
+        "Soda"
+      ]
+    },
+    {
+      "title": "Old Fashioned Tequila",
+      "price": 11,
+      "category": "Tequila Cocktails",
+      "ingredients": [
+        "Tequila",
+        "Zuckersirup",
+        "Bitters",
+        "Limetten Zeste"
+      ]
+    },
+    {
+      "title": "Espresso Tequila",
+      "price": 11,
+      "category": "Tequila Cocktails",
+      "ingredients": [
+        "Tequila",
+        "Espresso",
+        "Kahlua",
+        "Zuckersirup",
+        "Zartbitterschokolade"
+      ]
+    },
+    {
+      "title": "Gin Basil Smash (Preis ab 10 Euro)",
+      "price": 10,
+      "category": "Gin Cocktails",
+      "ingredients": [
+        "Gin nach Wahl",
+        "Zitronensaft",
+        "Zuckersirup",
+        "Frischer Basilikum"
+      ]
+    },
+    {
+      "title": "Gin Sour (Preis ab 10 Euro)",
+      "price": 10,
+      "category": "Gin Cocktails",
+      "ingredients": [
+        "Gin nach Wahl",
+        "Zitronensaft",
+        "Zuckersirup"
+      ]
+    },
+    {
+      "title": "Gimlet (Preis ab 9 Euro)",
+      "price": 9,
+      "category": "Gin Cocktails",
+      "ingredients": [
+        "Gin nach Wahl",
+        "Roses Lime Juice",
+        "Limettensaft"
+      ]
+    },
+    {
+      "title": "Hurrican",
+      "price": 10,
+      "category": "Rum Cocktails",
+      "ingredients": [
+        "Havanna 3 Jahre",
+        "Old Monk",
+        "Orangensaft",
+        "Annanassaft",
+        "Limettensaft"
+      ]
+    },
+    {
+      "title": "Meeresbriese",
+      "price": 10,
+      "category": "Rum Cocktails",
+      "ingredients": [
+        "Havanna 3 Jahre",
+        "Cranberrysaft",
+        "Annanassaft",
+        "Hollundersirup",
+        "Angostura Bitter"
+      ]
+    },
+    {
+      "title": "Daiquiri",
+      "price": 10,
+      "category": "Rum Cocktails",
+      "ingredients": [
+        "Havanna 3 Jahre",
+        "Limettensaft",
+        "Zuckersirup"
+      ]
+    },
+    {
+      "title": "Feigendaiquiri",
+      "price": 10,
+      "category": "Rum Cocktails",
+      "ingredients": [
+        "Havanna 3 Jahre",
+        "Old Monk",
+        "Limtettensaft",
+        "Zuckersirup",
+        "Feigenmarmelade"
+      ]
+    }
+    ,
+    {
+      "title": "Planters Punsh",
+      "price": 10,
+      "category": "Rum Cocktails",
+      "ingredients": [
+        "Havanna 3 Jahre",
+        "Old Monk",
+        "Orangensaft",
+        "Angastura Bitter",
+        "Muskatnuss"
+      ]
+    },
+    {
+      "title": "Old Fashion Rum ab 12,50 EUR",
+      "price": 12.5,
+      "category": "Rum Cocktails",
+      "ingredients": [
+        "Rum nach Wahl",
+        "Zuckersirup",
+        "Bitters"
+      ]
+    },
+    {
+      "title": "Horses Neck",
+      "price": 8,
+      "category": "Whiskey Cocktails",
+      "ingredients": [
+        "Maker's Mark",
+        "Angostura Bitter",
+        "Ginger Ale",
+        "Zitronenzeste"
+      ]
+    },
+    {
+      "title": "Whiskey Sour Preis ab 10,50 Euro",
+      "price": 10.50,
+      "category": "Whiskey Cocktails",
+      "ingredients": [
+        "Whiskey nach Wahl",
+        "Zitronensaft",
+        "Zuckersirup",
+        "Eiweiss",
+        "Zitronenzeste"
+      ]
+    },
+    {
+      "title": "Old Fashiond Whiskey ab 11 Euro",
+      "price": 11,
+      "category": "Whiskey Cocktails",
+      "ingredients": [
+        "Whiskey nach Wahl",
+        "Zuckersirup",
+        "Bitters"
+      ]
+    },
+    {
+      "title": "Espresso Martini",
+      "price": 11,
+      "category": "Vodka Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Kahlua",
+        "Zuckersirup",
+        "Espresso"
+      ]
+    },
+    {
+      "title": "Saure Pflaume",
+      "price": 10.5,
+      "category": "Vodka Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Limtettensaft",
+        "Ahornsirup",
+        "Pflaumenmus",
+        "Basilikum"
+      ]
+    },
+    {
+      "title": "Metropolis",
+      "price": 10,
+      "category": "Vodka Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Cointreau",
+        "Roses Lime Juice",
+        "Cranberrysaft",
+        "Orangen Bitters"
+      ]
+    },
+    {
+      "title": "Thymian & Basilikum",
+      "price": 10,
+      "category": "Vodka Cocktails",
+      "ingredients": [
+        "Vodka",
+        "Zitronensaft",
+        "Zuckersirup",
+        "Basilikum",
+        "Thymian"
+      ]
     }
   ]
 }
