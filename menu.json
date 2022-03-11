@@ -204,17 +204,12 @@
     },
     {
       "title": "Pastis",
-      "price": 2.5,
+      "price": 3,
       "category": "Spirituosen - Shots"
     },
     {
       "title": "Absinth",
       "price": 3.5,
-      "category": "Spirituosen - Shots"
-    },
-    {
-      "title": "Chartreuse 1764",
-      "price": 3,
       "category": "Spirituosen - Shots"
     },
     {
@@ -324,7 +319,7 @@
     },
     {
       "title": "Havana 7 J.",
-      "price": 5,
+      "price": 4.5,
       "category": "Spirituosen - Rum"
     },
     {
@@ -348,11 +343,6 @@
       "category": "Spirituosen - Rum"
     },
     {
-      "title": "El Dorado 12 J.",
-      "price": 6,
-      "category": "Spirituosen - Rum"
-    },
-    {
       "title": "Pyrat Xo",
       "price": 6.5,
       "category": "Spirituosen - Rum"
@@ -365,11 +355,6 @@
     {
       "title": "Botucal",
       "price": 6,
-      "category": "Spirituosen - Rum"
-    },
-    {
-      "title": "El Dorado 15 J.",
-      "price": 7.5,
       "category": "Spirituosen - Rum"
     },
     {
@@ -429,18 +414,13 @@
     },
     {
       "title": "Desperados",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
       "title": "O.B.C. Cidre",
       "price": 4.5,
       "category": "Biere"
-    },
-    {
-      "title": "Viva con Aqua leise/laut",
-      "price": 2.5,
-      "category": "Softdrinks"
     },
     {
       "title": "Wostok",
@@ -787,7 +767,7 @@
     },
     {
       "title": "Mezquiri Fizz",
-      "price": 11,
+      "price": 12,
       "category": "Tequila Cocktails",
       "ingredients": [
         "Mezcal",
