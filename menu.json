@@ -11,7 +11,7 @@
         "Zitronensaft",
         "Ginger Ale"
       ],
-      "price": 10,
+      "price": 12.5,
       "category": "Cocktails des Hauses"
     },
     {
@@ -24,7 +24,7 @@
         "Orangensaft",
         "Zartbitterschokolade"
       ],
-      "price": 10,
+      "price": 12,
       "category": "Cocktails des Hauses"
     },
     {
@@ -41,7 +41,7 @@
         "Worcester Sauce",
         "Tabasco"
       ],
-      "price": 11,
+      "price": 13.5,
       "category": "Cocktails des Hauses"
     },
     {
@@ -55,7 +55,7 @@
         "Wostok",
         "Frischer Orangensaft"
       ],
-      "price": 10,
+      "price": 12.5,
       "category": "Cocktails des Hauses"
     },
     {
@@ -69,7 +69,7 @@
         "Zitronensaft",
         "Hollundersirup"
       ],
-      "price": 11,
+      "price": 12.5,
       "category": "Cocktails des Hauses"
     },
     {
@@ -86,12 +86,12 @@
         "Orangensaft",
         "Hollundersirup"
       ],
-      "price": 10,
+      "price": 12,
       "category": "Cocktails des Hauses"
     },
     {
       "title": "Coba Whiskey Sour",
-      "price": 13.50,
+      "price": 15,
       "category": "Cocktails des Hauses",
       "ingredients": [
         "Woddford Reserve",
@@ -102,13 +102,13 @@
       ]
     },
     {
-      "title": "Gin Soft (Preis ab 7 Euro)",
-      "price": 7,
+      "title": "Gin Soft (Preis ab 7.5 Euro)",
+      "price": 7.5,
       "category": "mit Gin"
     },
     {
-      "title": "Negroni (Preis ab 10 Euro)",
-      "price": 10,
+      "title": "Negroni (Preis ab 12 Euro)",
+      "price": 12,
       "category": "mit Gin",
       "ingredients": [
         "Gin nach Wahl",
@@ -118,8 +118,8 @@
       ]
     },
     {
-      "title": "Gin Basil Smash (Preis ab 10 Euro)",
-      "price": 10,
+      "title": "Gin Basil Smash (Preis ab 12.5 Euro)",
+      "price": 12.5,
       "category": "mit Gin",
       "ingredients": [
         "Gin nach Wahl",
@@ -129,8 +129,8 @@
       ]
     },
     {
-      "title": "Gin Sour (Preis ab 10 Euro)",
-      "price": 10,
+      "title": "Gin Sour (Preis ab 12 Euro)",
+      "price": 12,
       "category": "mit Gin",
       "ingredients": [
         "Gin nach Wahl",
@@ -139,8 +139,8 @@
       ]
     },
     {
-      "title": "Gimlet (Preis ab 9 Euro)",
-      "price": 9,
+      "title": "Gimlet (Preis ab 12 Euro)",
+      "price": 12,
       "category": "mit Gin",
       "ingredients": [
         "Gin nach Wahl",
@@ -149,13 +149,13 @@
       ]
     },
     {
-      "title": "Vodka Soft (Preis ab 7 Euro)",
-      "price": 7,
+      "title": "Vodka Soft (Preis ab 7.5 Euro)",
+      "price": 7.5,
       "category": "mit Vodka"
     },
     {
       "title": "Moscow Mule",
-      "price": 8.5,
+      "price": 9,
       "category": "mit Vodka",
       "ingredients": [
         "Abyme Vodka",
@@ -167,7 +167,7 @@
     },
     {
       "title": "Espresso Martini",
-      "price": 11,
+      "price": 12.5,
       "category": "mit Vodka",
       "ingredients": [
         "Vodka",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Saure Pflaume",
-      "price": 10.5,
+      "price": 12.5,
       "category": "mit Vodka",
       "ingredients": [
         "Vodka",
@@ -190,7 +190,7 @@
     },
     {
       "title": "Metropolis",
-      "price": 10,
+      "price": 12,
       "category": "mit Vodka",
       "ingredients": [
         "Vodka",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Thymian & Basilikum",
-      "price": 10,
+      "price": 12.5,
       "category": "mit Vodka",
       "ingredients": [
         "Vodka",
@@ -214,7 +214,7 @@
     },
     {
       "title": "Basil Smash",
-      "price": 10.5,
+      "price": 12.5,
       "category": "mit Vodka",
       "ingredients": [
         "Frischer Basilikum",
@@ -225,7 +225,7 @@
     },
     {
       "title": "Vodka Sour",
-      "price": 10,
+      "price": 12,
       "category": "mit Vodka",
       "ingredients": [
         "Vodka",
@@ -234,13 +234,13 @@
       ]
     },
     {
-      "title": "Rum Soft (Preis ab 7)",
-      "price": 7,
+      "title": "Rum Soft (Preis ab 7.5)",
+      "price": 7.5,
       "category": "mit Rum"
     },
     {
       "title": "Dark & Stormy",
-      "price": 8.5,
+      "price": 9,
       "category": "mit Rum",
       "ingredients": [
         "Goslings Rum",
@@ -250,7 +250,7 @@
     },
     {
       "title": "Rosemary Collins",
-      "price": 10,
+      "price": 12.5,
       "category": "mit Rum",
       "ingredients": [
         "Havanna 3 Jahre",
@@ -262,7 +262,7 @@
     },
     {
       "title": "Hurricane",
-      "price": 10,
+      "price": 12,
       "category": "mit Rum",
       "ingredients": [
         "Havanna 3 Jahre",
@@ -274,7 +274,7 @@
     },
     {
       "title": "Meeresbriese",
-      "price": 10,
+      "price": 12,
       "category": "mit Rum",
       "ingredients": [
         "Havanna 3 Jahre",
@@ -286,7 +286,7 @@
     },
     {
       "title": "Daiquiri",
-      "price": 10,
+      "price": 12,
       "category": "mit Rum",
       "ingredients": [
         "Havanna 3 Jahre",
@@ -296,7 +296,7 @@
     },
     {
       "title": "Feigendaiquiri",
-      "price": 10,
+      "price": 12,
       "category": "mit Rum",
       "ingredients": [
         "Havanna 3 Jahre",
@@ -309,7 +309,7 @@
     ,
     {
       "title": "Planters Punch",
-      "price": 10,
+      "price": 12,
       "category": "mit Rum",
       "ingredients": [
         "Havanna 3 Jahre",
@@ -330,13 +330,13 @@
       ]
     },
     {
-      "title": "Whiskey Soft (Preis ab 8 Euro)",
-      "price": 8,
+      "title": "Whiskey Soft (Preis ab 8.5 Euro)",
+      "price": 8.5,
       "category": "mit Whiskey"
     },
     {
       "title": "Horses Neck",
-      "price": 8,
+      "price": 8.5,
       "category": "mit Whiskey",
       "ingredients": [
         "Maker's Mark",
@@ -346,8 +346,8 @@
       ]
     },
     {
-      "title": "Whiskey Sour Preis ab 12 Euro",
-      "price": 12,
+      "title": "Whiskey Sour Preis ab 13 Euro",
+      "price": 13,
       "category": "mit Whiskey",
       "ingredients": [
         "Whiskey nach Wahl",
@@ -358,8 +358,8 @@
       ]
     },
     {
-      "title": "Old Fashioned Whiskey ab 11 Euro",
-      "price": 11,
+      "title": "Old Fashioned Whiskey ab 12 Euro",
+      "price": 12,
       "category": "mit Whiskey",
       "ingredients": [
         "Whiskey nach Wahl",
@@ -369,7 +369,7 @@
     },
     {
       "title": "Mezquiri Fizz",
-      "price": 11,
+      "price": 13.5,
       "category": "mit Tequila",
       "ingredients": [
         "Mezcal",
@@ -381,7 +381,7 @@
     },
     {
       "title": "Old Fashioned Tequila",
-      "price": 11,
+      "price": 12,
       "category": "mit Tequila",
       "ingredients": [
         "Tequila",
@@ -392,7 +392,7 @@
     },
     {
       "title": "Espresso Tequila",
-      "price": 11,
+      "price": 12.5,
       "category": "mit Tequila",
       "ingredients": [
         "Tequila",
@@ -559,7 +559,7 @@
     },
     {
       "title": "Botucal",
-      "price": 6,
+      "price": 5,
       "category": "Spirituosen - Rum"
     },
     {
@@ -689,7 +689,7 @@
     },
     {
       "title": "Campari Orange",
-      "price": 7.5,
+      "price": 8,
       "category": "Longdrinks & Highballs",
       "ingredients": [
         "Campari",
@@ -726,7 +726,7 @@
     },
     {
       "title": "Amaretto Sour",
-      "price": 10,
+      "price": 12,
       "category": "Longdrinks & Highballs",
       "ingredients": [
         "Amaretto",
@@ -737,7 +737,7 @@
     },
     {
       "title": "Pisco Sour",
-      "price": 10,
+      "price": 12,
       "category": "Longdrinks & Highballs",
       "ingredients": [
         "Pisco",
@@ -748,32 +748,32 @@
     },
     {
       "title": "Büble Edelweiss | Flaschenbier 0.5l",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
       "title": "Büble Edelweiss Alkoholfrei | Flaschenbier 0.5l",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
       "title": "Büble Bayrisch Hell | vom Fass 0.5l",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
       "title": "Büble Bayrisch Hell | vom Fass 0.3l",
-      "price": 3.5,
-      "category": "Biere"
-    },
-    {
-      "title": "Berliner Kindl | vom Fass 0.4l",
       "price": 4,
       "category": "Biere"
     },
     {
+      "title": "Berliner Kindl | vom Fass 0.4l",
+      "price": 4.5,
+      "category": "Biere"
+    },
+    {
       "title": "Berliner Kindl | vom Fass 0.3l",
-      "price": 3.5,
+      "price": 4,
       "category": "Biere"
     },
     {
@@ -788,22 +788,22 @@
     },
     {
       "title": "Alster | 0.5l",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
       "title": "Diesel | 0.5l",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
       "title": "Desperados",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
       "title": "O.B.C. Cidre",
-      "price": 4.5,
+      "price": 5,
       "category": "Biere"
     },
     {
@@ -833,7 +833,7 @@
     },
     {
       "title": "OBC Cider Strong | 0.33l",
-      "price": 4.5,
+      "price": 5,
       "category": "Wein & Sekt"
     },
     {
@@ -855,11 +855,6 @@
       "title": "Porto Messias 10 anos | 0.2l",
       "price": 5,
       "category": "Wein & Sekt"
-    },
-    {
-      "title": "Viva con Aqua leise/laut",
-      "price": 2.5,
-      "category": "Softdrinks"
     },
     {
       "title": "Wostok",
@@ -918,18 +913,18 @@
     },
     {
       "title": "Coba Punch",
-      "price": 7,
+      "price": 7.5,
       "category": "Alkoholfreie Cocktails",
       "ingredients": [
         "Cranberrynektar",
         "frisch gepresster Orangensaft",
-        "Grapefruitsaft",
+        "frisch gepresster Grapefruitsaft",
         "Mandelsirup"
       ]
     },
     {
       "title": "Kakadu",
-      "price": 7,
+      "price": 7.5,
       "category": "Alkoholfreie Cocktails",
       "ingredients": [
         "Apfelsaft",
@@ -940,7 +935,7 @@
     },
     {
       "title": "Coba Apfel Cooler",
-      "price": 7,
+      "price": 7.5,
       "category": "Alkoholfreie Cocktails",
       "ingredients": [
         "Apfelsaft",
@@ -966,57 +961,57 @@
     },
     {
       "title": "Apfelsaftschorle | 0.3l",
-      "price": 3,
+      "price": 3.5,
       "category": "Säfte"
     },
     {
       "title": "Birnensaft 0.3l",
-      "price": 3.5,
+      "price": 4,
       "category": "Säfte"
     },
     {
       "title": "Birnensaftschorle | 0.3l",
-      "price": 3,
+      "price": 3.5,
       "category": "Säfte"
     },
     {
       "title": "Cranberry Nektar | 0.3l",
-      "price": 3.5,
+      "price": 4,
       "category": "Säfte"
     },
     {
       "title": "Cranberryschorle 0.3l",
-      "price": 3,
+      "price": 3.5,
       "category": "Säfte"
     },
     {
       "title": "Maracuja Nektar | 0.3l",
-      "price": 3.5,
+      "price": 4,
       "category": "Säfte"
     },
     {
       "title": "Maracujaschorle | 0.3l",
-      "price": 3,
+      "price": 3.5,
       "category": "Säfte"
     },
     {
       "title": "Organgensaft | 0.3l",
-      "price": 3.5,
+      "price": 4,
       "category": "Säfte"
     },
     {
       "title": "Organgensaftschorle | 0.3l",
-      "price": 3,
-      "category": "Säfte"
-    },
-    {
-      "title": "Tomantensaft 0.3l",
       "price": 3.5,
       "category": "Säfte"
     },
     {
+      "title": "Tomantensaft 0.3l",
+      "price": 4,
+      "category": "Säfte"
+    },
+    {
       "title": "Espresso",
-      "price": 2.5,
+      "price": 3,
       "category": "Warme Getränke"
     },
     {
